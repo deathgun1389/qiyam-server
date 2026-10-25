@@ -1,0 +1,14 @@
+{
+  "name": "qiyam-iranian-online-server",
+  "version": "1.5.3",
+  "private": true,
+  "description": "Qiyam-e Iranian multiplayer WebSocket server for Node.js hosting",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "check": "node --check server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
